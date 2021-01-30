@@ -14,4 +14,4 @@ app.get('/', (req, res) => {
 
 app.use(express.static('public'))
 
-app.listen(5000 || process.env.PORT, () => console.log("Server running.."))
+app.listen(process.env.PORT || 5000, () => console.log("Server running.."))
