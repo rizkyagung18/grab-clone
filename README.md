@@ -1,7 +1,6 @@
-# grab-clone
+# Grab Clone (Just Home Screen)
 
 ## How to use
-____
 
 `npm install`
 
